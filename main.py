@@ -29,7 +29,7 @@ class TaskManager:
 
     def write_tasks(self):
         """
-        This method writes the list of tasks to a file
+ 	I don't know python. Let's suppose now this function does what it is supposed to do.
         """
         pass
 
